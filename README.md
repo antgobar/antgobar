@@ -3,10 +3,8 @@
 I am a software developer with a previous career in material science.
 
 ### 🔭 I'm currently working on
-- [LabMate 🥼🧪](https://github.com/antgobar/labmate)
+- [LabMate 🥼🧪](https://github.com/antgobar/labmate) | [Site](https://labmate.ant0n.uk) | Progress: 🔴🔴🟢🟢🟢
   - Stack: Pythonm, FastApi, Postgres, HTMX, Pico CSS
-  - Progress: 🔴🔴🟢🟢🟢
-  - [Site](https://labmate.ant0n.uk)
 - [FamCal 👪 📆](https://github.com/antgobar/famcal)
   - Stack: Go, Postgres, HTMX, AlpineJS, Pico CSS
   - Progress: 🔴🔴🔴🔴🟢
@@ -38,5 +36,5 @@ I am a software developer with a previous career in material science.
 - Data processing and analytics
 
 ### 🤔 I’m looking for help with
-- Agrigultural technology i.e. sofware and data solutions in the agriculture domain
+- Agrigultural technology, sofware and data solutions in the agriculture domain
 - Kubernetes
