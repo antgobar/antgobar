@@ -3,16 +3,12 @@
 I am a software developer with a previous career in material science.
 
 ### 🔭 I'm currently working on
-- [LabMate 🥼🧪](https://github.com/antgobar/labmate) | [Site](https://labmate.ant0n.uk) | Progress: 🔴🔴🟢🟢🟢
-  - Stack: Pythonm, FastApi, Postgres, HTMX, Pico CSS
-- [FamCal 👪 📆](https://github.com/antgobar/famcal)
-  - Stack: Go, Postgres, HTMX, AlpineJS, Pico CSS
-  - Progress: 🔴🔴🔴🔴🟢
-  - [Site](https://famcal.ant0n.uk)
-- [LyricStats 🎵📉](https://github.com/antgobar/lyrics_analytics)
-  - Stack: Python, Flask, MongoDb, RabbitMq, Boostrapp CSS
-  - Progress: 🔴🟢🟢🟢🟢
-  - ~Site~, not yet deployed
+
+| App | Site | Stack | Progress |
+---------------------------------
+| [LabMate 🥼🧪](https://github.com/antgobar/labmate) | [Link](https://labmate.ant0n.uk) | Python, FastApi, Postgres, HTMX | 🔴🔴🟢🟢🟢 |
+| [FamCal 👪 📆](https://github.com/antgobar/famcal) | [Link](https://famcal.ant0n.uk) | Go, Postgres, HTMX, AlpineJS | 🔴🔴🔴🔴🟢 |
+| [LyricStats 🎵📉](https://github.com/antgobar/lyrics_analytics) | Not yet deployed | Python, Flask, MongoDb, RabbitMq | 🔴🟢🟢🟢🟢 |
 
 ### 🌱 I'm currently learning
 - Go (Golang)
