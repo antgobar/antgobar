@@ -6,7 +6,7 @@ I am a software developer with a previous career in material science.
 
 | App | Site | Stack | Progress | Last worked on |
 | --- | --- | --- | --- | --- | 
-| [LabMate 🥼🧪](https://github.com/antgobar/labmate) | [Link](https://labmate.ant0n.uk) | Python, FastApi, Postgres, HTMX | 🔴🔴🟢🟢🟢 | ![Last update](https://img.shields.io/github/last-commit/antgobar/labmate?style=flat) |
+| [LabMate 🥼🧪](https://github.com/antgobar/labmate) | [Link](https://labmate.ant0n.uk) | Python, FastApi, Postgres, HTMX | 🔴🔴🟢🟢🟢 | ![](https://img.shields.io/github/last-commit/antgobar/labmate?style=flat) |
 | [FamCal 👪 📆](https://github.com/antgobar/famcal) | [Link](https://famcal.ant0n.uk) | Go, Postgres, HTMX, AlpineJS | 🔴🔴🔴🔴🟢 | ![](https://img.shields.io/github/last-commit/antgobar/famcal?style=flat) |
 | [LyricStats 🎵📉](https://github.com/antgobar/lyrics_analytics) | Not yet deployed | Python, Flask, MongoDb, RabbitMq | 🔴🟢🟢🟢🟢 | ![](https://img.shields.io/github/last-commit/antgobar/lyrics_analytics?style=flat) |
 
