@@ -21,16 +21,16 @@ Contact me on anton.datasolutions@gmail.com
 
 ### 🌱 I am learning
 - Go (Golang)
+- Kubernetes
 - Machine Learning
 - Agrigultural technology
-- Kubernetes
 - Self hosting
 
 ### 👯 Collaborate with me
 - Building backend services and APIs
 - Software and data solutions
 - App ideas
-- Building software and data solutions for key domains:
+- Building software and data solutions in:
   - Agricultural technology
   - Financial technology
   - IoT
