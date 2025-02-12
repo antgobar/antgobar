@@ -10,7 +10,6 @@ I am a software developer with a previous career in material science.
 | [FamCal 👪 📆](https://github.com/antgobar/famcal) | [Link](https://famcal.ant0n.uk) | Go, Postgres, HTMX, AlpineJS | 🔴🔴🔴🔴🟢 |
 | [LyricStats 🎵📉](https://github.com/antgobar/lyrics_analytics) | Not yet deployed | Python, Flask, MongoDb, RabbitMq | 🔴🟢🟢🟢🟢 |
 
-
 ### 🌱 I'm currently learning
 - Go (Golang)
 - Self hosting
