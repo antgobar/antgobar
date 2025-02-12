@@ -6,9 +6,9 @@ I am a software developer with a previous career in material science.
 
 | App | Site | Stack | Progress |
 ---------------------------------
-| [LabMate 🥼🧪](https://github.com/antgobar/labmate) | [Link](https://labmate.ant0n.uk) | Python, FastApi, Postgres, HTMX | 🔴🔴🟢🟢🟢 |
-| [FamCal 👪 📆](https://github.com/antgobar/famcal) | [Link](https://famcal.ant0n.uk) | Go, Postgres, HTMX, AlpineJS | 🔴🔴🔴🔴🟢 |
-| [LyricStats 🎵📉](https://github.com/antgobar/lyrics_analytics) | Not yet deployed | Python, Flask, MongoDb, RabbitMq | 🔴🟢🟢🟢🟢 |
+| [LabMate 🥼🧪](https://github.com/antgobar/labmate) | [Link](https://labmate.ant0n.uk) | Python, FastApi, Postgres, HTMX | 🔴🔴🟢🟢🟢 |  
+| [FamCal 👪 📆](https://github.com/antgobar/famcal) | [Link](https://famcal.ant0n.uk) | Go, Postgres, HTMX, AlpineJS | 🔴🔴🔴🔴🟢 |  
+| [LyricStats 🎵📉](https://github.com/antgobar/lyrics_analytics) | Not yet deployed | Python, Flask, MongoDb, RabbitMq | 🔴🟢🟢🟢🟢 |  
 
 ### 🌱 I'm currently learning
 - Go (Golang)
