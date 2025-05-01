@@ -8,8 +8,8 @@ Contact me on anton.datasolutions@gmail.com
 | App | Site | Stack | Progress | Updates |
 | --- | --- | --- | --- | --- | 
 | [LabMate 🥼🧪](https://github.com/antgobar/labmate) | [Link](https://labmate.ant0n.uk) | Python, FastApi, Postgres, HTMX | 🔴🔴🟢🟢🟢 | ![](https://img.shields.io/github/last-commit/antgobar/labmate?style=flat) |
-| [FamCal 👪 📆](https://github.com/antgobar/famcal) | [Link](https://famcal.ant0n.uk) | Go, Postgres, HTMX, AlpineJS | 🔴🔴🔴🔴🟢 | ![](https://img.shields.io/github/last-commit/antgobar/famcal?style=flat) |
-| [LyricStats 🎵📉](https://github.com/antgobar/lyrics_analytics) | Not yet deployed | Python, Flask, MongoDb, RabbitMq | 🔴🟢🟢🟢🟢 | ![](https://img.shields.io/github/last-commit/antgobar/lyrics_analytics?style=flat) |
+| [FamCal 👪 📆](https://github.com/antgobar/famcal) | Not deployed | Go, Postgres, HTMX, AlpineJS | 🔴🔴🔴🔴🟢 | ![](https://img.shields.io/github/last-commit/antgobar/famcal?style=flat) |
+| [LyricStats 🎵📉](https://github.com/antgobar/lyrics_analytics) | Not deployed | Python, Flask, MongoDb, RabbitMq | 🔴🟢🟢🟢🟢 | ![](https://img.shields.io/github/last-commit/antgobar/lyrics_analytics?style=flat) |
 
 ### 💬 I am experienced in
 - Python
