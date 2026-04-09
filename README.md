@@ -1,3 +1,7 @@
+---
+icon: lucide/user
+---
+
 # Hello there 👋
 
 I am a software engineer who enjoys using my free time to build web apps, backend systems and learn new things such as Go!
