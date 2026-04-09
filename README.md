@@ -2,6 +2,7 @@
 
 I am a software engineer who enjoys using my free time to build web apps, backend systems and learn new things such as Go!
 
+[My Site](https://antgobar.github.io/antgobar/)
 Contact me on anton.datasolutions@gmail.com
 
 ### 🔭 My projects
