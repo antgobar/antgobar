@@ -20,8 +20,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - name: Copy README.md to docs/README.md
-        run: cp README.md docs/README.md
+      - name: Copy README.md to docs/me.md
+        run: cp README.md docs/me.md
       - run: pip install zensical
       - run: zensical build --clean 
       - uses: actions/upload-pages-artifact@v4

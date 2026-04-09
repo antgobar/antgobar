@@ -2,6 +2,9 @@
 icon: lucide/user
 ---
 
+<!-- This file is automatically copied into the `docs` folder as `me.md` during deployment -->
+
+
 # Hello there 👋
 
 I am a software engineer who enjoys using my free time to build web apps, backend systems and learn new things such as Go!
